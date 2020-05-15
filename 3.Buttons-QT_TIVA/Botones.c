@@ -14,6 +14,8 @@
 //  comando enviado desde la placa al GUI, para mostrar el estado de los botones.
 //
 //*****************************************************************************
+
+/* pruebo a ver si se sube bien*/
 #include<stdbool.h>
 #include<stdint.h>
 #include "inc/hw_memmap.h"       // TIVA: Definiciones del mapa de memoria
